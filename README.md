@@ -1,2 +1,1 @@
-# PricingTable (flexbox)
-
+# Pricing table using Flexbox
